@@ -11,7 +11,7 @@
 						<key>kind</key>
 						<string>software-package</string>
 						<key>url</key>
-						<string>https://180.166.39.152:17933/binary/anymed_v1.0_alpha_ios8.ipa</string>
+						<string>http://180.166.39.152:17939/binary/anymed_v1.0_alpha_ios8.ipa</string>
 					</dict>
 					<dict>
 						<key>kind</key>
@@ -35,7 +35,7 @@
 					<key>bundle-identifier</key>
 					<string>com.neusoft.niox</string>
 					<key>bundle-version</key>
-					<string>1.0</string>
+					<string>1</string>
 					<key>kind</key>
 					<string>software</string>
 					<key>title</key>
